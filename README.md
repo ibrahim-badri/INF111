@@ -1,2 +1,2 @@
-# INF111
-Ce répertoire (repository) constitue les artéfacts et les démarches des laboratoires, des exercices ainsi que des travaux pratiques effectués dans le cadre du cours INF111 Programmation orientée objet.
+# INF111 Programmation orientée objet
+Course intended for students who have already taken a programming course. It allows learning and practicing the basic principles of object-oriented programming (encapsulation, inheritance, composition, and polymorphism). The programming language used is the same as the one used in the following design courses.
