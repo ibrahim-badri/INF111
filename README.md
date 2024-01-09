@@ -7,3 +7,6 @@ Course intended for students who have already taken a programming course. It all
 
 ## Tech Stack
 The main technologies used within the scope of this course are primarily Java.
+
+## License 
+This project is licensed under the [MIT License](https://github.com/ibrahimbadri-dev/INF111?tab=MIT-1-ov-file#readme). 
