@@ -2,8 +2,10 @@
 Course intended for students who have already taken a programming course. It allows learning and practicing the basic principles of object-oriented programming (encapsulation, inheritance, composition, and polymorphism). The programming language used is the same as the one used in the following design courses.
 
 ## Table of content
-1. [Tech Stack](#Tech-Stack)
-2. [License](#License)
+1. [Getting Started](#Getting-Started)
+2. [Prerequisites](#Prerequisites)
+3. [Tech Stack](#Tech-Stack)
+4. [License](#License)
 
 ## Getting Started
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
