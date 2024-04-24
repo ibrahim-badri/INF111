@@ -7,9 +7,6 @@ Course intended for students who have already taken a programming course. It all
 3. [Tech Stack](#Tech-Stack)
 4. [License](#License)
 
-## Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-
 ## Tech Stack
 The main technologies used within the scope of this course are primarily Java.
 
