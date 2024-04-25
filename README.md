@@ -3,7 +3,6 @@ Course intended for students who have already taken a programming course. It all
 
 ## Table of content
 1. [Getting Started](#Getting-Started)
-2. [Prerequisites](#Prerequisites)
 3. [Tech Stack](#Tech-Stack)
 4. [License](#License)
 
